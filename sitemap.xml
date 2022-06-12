@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://shove.cc/project/archives/index.html</loc>
+    <loc>https://shove.cc/archives/index.html</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://shove.cc/project/about/index.html</loc>
+    <loc>https://shove.cc/about/index.html</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://shove.cc/project/categories/index.html</loc>
+    <loc>https://shove.cc/categories/index.html</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://shove.cc/project/2022/06/10/%E5%BC%80%E5%A7%8B/</loc>
+    <loc>https://shove.cc/2022/06/10/%E5%BC%80%E5%A7%8B/</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://shove.cc/project/tags/index.html</loc>
+    <loc>https://shove.cc/tags/index.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://shove.cc/project/link/index.html</loc>
+    <loc>https://shove.cc/link/index.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://shove.cc/project/2022/06/10/hello-world/</loc>
+    <loc>https://shove.cc/2022/06/10/hello-world/</loc>
     
     <lastmod>2022-06-10</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>https://shove.cc/project</loc>
+    <loc>https://shove.cc/</loc>
     <lastmod>2022-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
